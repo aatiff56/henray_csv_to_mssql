@@ -1,0 +1,194 @@
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.AssemblyReference.cache
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Configuration.resources
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.GenerateResource.cache
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe.config
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.pdb
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CopyComplete
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.exe
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.pdb
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.xml
+C:\Users\asmaa\source\repos\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe.config
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.pdb
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.AssemblyReference.cache
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Configuration.resources
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.GenerateResource.cache
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CopyComplete
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.exe
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.pdb
+C:\Users\asmaa\source\repos\Final Project\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.exe.licenses
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe.config
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.exe
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\Patient_Management_System.pdb
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Data.v20.1.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Buffers.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Memory.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.AssemblyReference.cache
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Configuration.resources
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.Properties.Resources.resources
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.GenerateResource.cache
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.exe.licenses
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CoreCompileInputs.cache
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.csproj.CopyComplete
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.exe
+D:\git\Usman\henray_csv_to_mssql\Patient_Management_System\Patient_Management_System\Patient_Management_System\obj\Debug\Patient_Management_System.pdb
